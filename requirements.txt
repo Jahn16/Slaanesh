@@ -4,6 +4,7 @@ nicegui>=2.17.0
 igdb-api-v4>=0.3.3
 pyarrow>=20.0.0
 requests>=2.32.3
+pydantic-settings>=2.11.0
 # enable for native mode
 #pywebview>=5.1
 #PyQt5>=5.15.11
